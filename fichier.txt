@@ -1,0 +1,19 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E660-B18D
+
+ R‚pertoire de C:\Users\Lucie\workspace\Stage
+
+03/07/2016  22:59    <DIR>          .
+03/07/2016  22:59    <DIR>          ..
+01/07/2016  15:55             5ÿ308 .classpath
+01/07/2016  16:51                 6 .gitignore
+01/07/2016  15:42               381 .project
+01/07/2016  15:42    <DIR>          .settings
+01/07/2016  17:44    <DIR>          bin
+03/07/2016  22:59               789 fichier.txt
+01/07/2016  15:54    <DIR>          lib
+01/07/2016  15:50           317ÿ440 lwjgl64.dll
+01/07/2016  15:50           382ÿ464 OpenAL64.dll
+01/07/2016  17:44    <DIR>          src
+               6 fichier(s)          706ÿ388 octets
+               6 R‚p(s)  39ÿ049ÿ244ÿ672 octets libres
